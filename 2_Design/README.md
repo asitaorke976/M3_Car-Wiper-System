@@ -1,8 +1,6 @@
 # flowchart
-![flowchart](https://github.com/Naresh17025/M3_CAR-WIPER-SYSTEM/blob/main/2_Design/FLOWCHART.png)
+![FLOWCHART](https://user-images.githubusercontent.com/101246744/168381440-e0da40a2-1dfe-4935-b330-54cd2118b86b.png)
 # Block Diagram
-![Block Diagram](https://github.com/Naresh17025/M3_CAR-WIPER-SYSTEM/blob/main/2_Design/BLOCK%20DIAGRAM.png)
-# Data Flow Diagram 
-![Data Flow Diagram](https://github.com/Naresh17025/M3_CAR-WIPER-SYSTEM/blob/main/2_Design/DATA%20FLOW%20DIAGRAM.png)
+![BLOCK DIAGRAM](https://user-images.githubusercontent.com/101246744/168381483-45fee249-8e74-4fa8-b4fe-66775170636e.png)
 # Class Diagram
-![Class Diagram](https://github.com/Naresh17025/M3_CAR-WIPER-SYSTEM/blob/main/2_Design/DATA%20FLOW%20DIAGRAM.png)
+![DATA FLOW DIAGRAM](https://user-images.githubusercontent.com/101246744/168381505-4a5114f0-4cc5-4b89-8fad-e850f3f93fda.png)
