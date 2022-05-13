@@ -5,7 +5,7 @@
 ## REQUIREMENTS FOR THE PROJECTS ARE :
 # DESCRIPTION
 # STM32F407VG
-* The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded 
+* A 32-bit RISC core with a frequency of up to 168 MHz is used in the STM32F405xx and STM32F407xx families. A single precision floating point unit (FPU) is integrated into the Cortex-M4 core, supporting all Arm single-precision data processing instructions. A complete set of DSP instructions and a memory protection unit (MPU) enhance application security. The STM32F405xx and STM32F407xx family incorporate high-speed embedded 
 # Xpack Packages :
 * Windows Build Tools:
 The xPack Windows Build Tools is a standalone Windows binary distribution of GNU make and a few of other tools required by the Eclipse Embedded CDT (formerly GNU MCU/ARM Eclipse) project, but the binaries can also be used in generic build environments.
@@ -19,7 +19,7 @@ The xPack Windows Build Tools is a standalone Windows binary distribution of GNU
  * 512 bytes of OTP memory.
  * Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
 # WORKING PRINCIPLE
- * Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
+ * A microcontroller is used to control the automobile. If the button is pressed, the first led (red) will be turned on, the wiper will start, and the second led (blue) will be turned on at a desired rate. When the button is pressed again, the third led (green) will light up, and the wiper will speed up. Upon pressing the fourth button, the fourth led (orange) will be turned on, and the wiper speed will increase accordingly. After the fifth click, the microcontroller (vehicle) is turned off.
 # USES
 
 # 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
